@@ -11,6 +11,11 @@ FUN FACT: I am interested in cooking and like to expeiment with different cultur
 # What is your interest in IT?:
 My interest in IT is focused on the side of cyber security and web design, which has always interested me because of its unique field of study and it borad area of job that I could choose to explore.
 
+
+
+
+
+
 # When did your interest in IT start?:
 My interest in IT started when I first got my PC which interest me in many different
 program and design that was created in order to improve how we use technology which greatly 
