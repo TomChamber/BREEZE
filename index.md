@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Tom Chambers Website                           
 
-You can use the [editor on GitHub](https://github.com/TomChamber/Tom-Proflio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Personal Information 
+-Name : Tom chambers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-Student ID: s3948171@student.rmit.edu.au
 
-### Markdown
+-Nationality: Vietnamese & Australian
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Language spoken: English & Vietnamese
 
-```markdown
-Syntax highlighted code block
+-FUN FACT: I am interested in cooking because I alway had a passion for food, which was why I picked up cooking
 
-# Header 1
-## Header 2
-### Header 3
+# What is your interest in IT
+* My interest in IT has alway been focused on the side of cyber security and Web design, which has always been what has made me wanted to get into IT, and to furthur my study in the area of Web-design I decide to study at RMIT.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TomChamber/Tom-Proflio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
