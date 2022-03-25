@@ -11,8 +11,7 @@ FUN FACT: I am interested in cooking and like to expeiment with different cultur
 # What is your interest in IT?:
 My interest in IT is focused on the side of cyber security and web design, which has always interested me because of its unique field of study and it borad area of job that I could choose to explore.
 
-
-
+<img src="https://irp-cdn.multiscreensite.com/66f2501a/dms3rep/multi/cyber-4610993_1920.jpg" />
 
 
 
@@ -34,6 +33,11 @@ I chose RMIT as my place to study and obtain my degree because it is known as th
 
 # What do you expect to learn during your studies?
 During my time at RMIT, I expect to be introduced to different types of programming and to be able to hone my skill as well as experience through my lecturers and have a better understanding of what I will be able to do in the future through completing the course. 
+
+#
+
+# Ideal Job
+
 
 
 
