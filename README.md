@@ -17,16 +17,6 @@
 # ARBEN IS FUCK FART
 # ARBEN IS FUCK FART
 # ARBEN IS FUCK FART
-
-
-
-
-
-
-
-
-
-
 # Welcome to Tom Chambers Profile
 
 
