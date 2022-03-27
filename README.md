@@ -83,6 +83,8 @@ The position of Web-designer/developer for NEXTGEN.
  
  https://www.how-to-study.com/learning-style-assessment/
  
+ ![dadada](https://user-images.githubusercontent.com/101620168/160279003-5f70d1eb-2aab-4102-9eb2-669f7cf3b07f.PNG)
+ 
 https://www.truity.com/test/big-five-personality-test
 
 #### What do the results of these tests mean for you?
