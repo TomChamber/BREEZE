@@ -77,15 +77,15 @@ Placement for at least two years before I will be able to have enough skills, qu
 The position of Web-designer/developer for NEXTGEN.
 
 # Personal Profile
- http://www.16personalities.com/
+ #### http://www.16personalities.com/
  
  ![Screenshot 2022-03-27 212355](https://user-images.githubusercontent.com/101620168/160277311-e8a6c7b9-2ee3-4d8d-ab45-b26ae866cd3d.png)
  
- https://www.how-to-study.com/learning-style-assessment/
+ #### https://www.how-to-study.com/learning-style-assessment/
  
  ![dadada](https://user-images.githubusercontent.com/101620168/160279003-5f70d1eb-2aab-4102-9eb2-669f7cf3b07f.PNG)
  
-https://www.truity.com/test/big-five-personality-test
+#### https://www.truity.com/test/big-five-personality-test
 
 ![dadadadad](https://user-images.githubusercontent.com/101620168/160279013-196ef09c-7b26-4764-8c57-e15071e0a5a2.PNG)
 ![Screenshot 2022-03-27 221736](https://user-images.githubusercontent.com/101620168/160279010-7083c1af-139f-4ac6-bf31-e09e14e205ed.png)
@@ -145,6 +145,18 @@ The necessary skill that will be required for this project would be someone that
 #### Outcome:
 If project “Breeze” is successful the final outcome will be a product that has the ability to regulate the temperature of a home through a device such as a raspberry pi which will hopefully allow any customer to be able to regulate the temperature of their home through the use of a raspberry pi which is a cheap and affoardbale computer system. An obstacle that might hinder this project from being completed would probably be the way the mechanism would be merged together to produce a design that looks nice and appeal to the customer, without affecting the ability of “Breeze” to carry out its purpose.
 
+# REFERENCE
+
+#### https://www.abs.gov.au/ausstats/abs@.nsf/0/503F8B8C2AFD8744CA25774A0013BD64?opendocument#:~:text=In%20regional%20Victoria%2C%2020%25%20of,at%20all%20during%20summer%20months.
+
+#### https://all3dp.com/1/best-raspberry-pi-projects/
+
+#### https://core-electronics.com.au/pimoroni-enviro-air-quality-for-raspberry-pi.html
+
+
+#### https://youtu.be/ir7F2yxSGSY
+
+#### https://youtu.be/QyFcl_Fba-k
 
 
 
