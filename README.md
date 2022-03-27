@@ -87,6 +87,10 @@ The position of Web-designer/developer for NEXTGEN.
  
 https://www.truity.com/test/big-five-personality-test
 
+![dadadadad](https://user-images.githubusercontent.com/101620168/160279013-196ef09c-7b26-4764-8c57-e15071e0a5a2.PNG)
+![Screenshot 2022-03-27 221736](https://user-images.githubusercontent.com/101620168/160279010-7083c1af-139f-4ac6-bf31-e09e14e205ed.png)
+![Screenshot 2022-03-27 221714](https://user-images.githubusercontent.com/101620168/160279007-b83d93f9-4e09-4d22-8e20-673dda00c9f3.png)
+
 #### What do the results of these tests mean for you?
 These results from the three tests that I have done
  mean that I should try to adjust my daily life to help improve on these
@@ -153,9 +157,8 @@ If project “Breeze” is successful the final outcome will be a product that h
 
 
 
-![Screenshot 2022-03-27 221714](https://user-images.githubusercontent.com/101620168/160279007-b83d93f9-4e09-4d22-8e20-673dda00c9f3.png)
 
-![Screenshot 2022-03-27 221736](https://user-images.githubusercontent.com/101620168/160279010-7083c1af-139f-4ac6-bf31-e09e14e205ed.png)
+
 
 
 
