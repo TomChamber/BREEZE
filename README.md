@@ -75,7 +75,11 @@ The position of Web-designer/developer for NEXTGEN.
 
 # Personal Profile
  http://www.16personalities.com/
+ 
+ ![Screenshot 2022-03-27 212355](https://user-images.githubusercontent.com/101620168/160277311-e8a6c7b9-2ee3-4d8d-ab45-b26ae866cd3d.png)
+ 
  https://www.how-to-study.com/learning-style-assessment/
+ 
 https://www.truity.com/test/big-five-personality-test
 
 #### What do the results of these tests mean for you?
@@ -117,7 +121,7 @@ The main goal of “Project Breeze” is to be able to achieve the desire of reg
 Another aspect of “project breeze” that makes it stand out as a unique invention from anything that has come before it is that it comes with a very reasonable price point for its purpose, due to the component used for it is very affordable, which mean a lot more customer can be able to afford it and a lot of reviews will be provided as a result of their experience with the project, which can be used to upgrade the mechanism, even more, to make it something better.
 Above all else, this mechanism's most outstanding point is that it is meant to target customers that are too lazy and want a product that is very easy to use, which can be set and forgotten about in their household, and require little to no maintenance which will create less of a hassle for the customer. 
 
-The intention for “Project Breeze” was always to create something that was able to help family homes regulate their home environment without paying a massive amount of money to create a ventilation system that could cost thousand of dollar, as a result of this “Breeze” was created to combat such an issue through the use of a cheap raspberry pi and some software, the project aims to create a system that allow your home to always be your desire temperature through the automation of your window/curtain and AC to function when the Raspberry pi sense that the temperature inside of your home is higher than the temperature from the outside or when you desire your house to always be at a certain temperature of your liking.
+The intention for “Project Breeze” was always to create something that was able to help family homes regulate their home environment without paying a massive amount of money to create a ventilation system that could cost thousands of dollars, as a result of this “Breeze” was created to combat such an issue through the use of a cheap raspberry pi and some software, the project aims to create a system that allow your home to always be your desire temperature through the automation of your window/curtain and AC to function when the Raspberry pi sense that the temperature inside of your home is higher than the temperature from the outside or when you desire your house to always be at a certain temperature of your liking.
 
 
 
