@@ -1,10 +1,10 @@
 
-# Welcome to Breeze
+# **Welcome to Breeze**
 ============================================================================================
 
 ## Personal
 
-Name: Tom Chambers
+Name: **Tom Chambers**
 
 Student ID:  s3948171
 
