@@ -1,4 +1,5 @@
 
+
 # Welcome to Tom Chambers Profile
 
 
@@ -36,11 +37,17 @@ I chose RMIT as my place to study and obtain my degree because it is known as th
 # What do you expect to learn during your studies?
 During my time at RMIT, I expect to be introduced to different types of programming and to be able to hone my skill as well as experience through my lecturers and have a better understanding of what I will be able to do in the future through completing the course. 
 
-#
-
 # Ideal Job
 
-## Welcome to GitHub Pages
+# The Job advertisement itself. Include a link, and a snapshot of it (in case the link expires before the assignment deadline):
+# https://www.seek.com.au/job/56149373?type=promoted#sol=2577fa895c15b06f1540c1902b93795068a8f99b
+
+
+
+
+
+
+
 
 
 
