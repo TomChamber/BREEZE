@@ -47,7 +47,10 @@ During my time at RMIT, I expect to be introduced to different types of programm
 # Ideal Job
 
 ### The Job advertisement itself. Include a link, and a snapshot of it (in case the link expires before the assignment deadline):
+
 #### https://www.seek.com.au/job/56149373?type=promoted#sol=2577fa895c15b06f1540c1902b93795068a8f99b
+
+![image](https://user-images.githubusercontent.com/101620168/160277756-bb192aab-2ae4-4d1b-b14d-4e1ecdca05b3.png)
 
 #### A description of the position, and particularly what makes this position appealing to you:
 The Web designer/developer position that is present from the above link focuses on using skills and qualifications such as Java, HTML and web design to be able to optimize the website for maximum visibility, speed and scalability to appeal to the user. This position appealed to me because I have always been interested in the unique design of websites and how they make it more simple for consumers to be negative. Being able to construct websites myself has always been something that I have always been interested in.
@@ -134,6 +137,8 @@ The tools/equipment that I will be required for this project would be an electri
 The necessary skill that will be required for this project would be someone that has vast knowledge about coding with Java or Linux, which would be needed to be able to create the main part of the program which will conduct all the calculations and necessary adjustments to the temperature when it is implemented. The hardware that we are using within the project has to be carefully constructed by combining different parts such as an electrical motor, digital thermistor and a small solar panel to be able to allow the mechanisms to work probably. This part would require someone with knowledge about how to wire and connect different parts together to make it function such as a mechanical engineer.
 
 #### Outcome:
+If project “Breeze” is successful the final outcome will be a product that has the ability to regulate the temperature of a home through a device such as a raspberry pi which will hopefully allow any customer to be able to regulate the temperature of their home through the use of a raspberry pi which is a cheap and affoardbale computer system. An obstacle that might hinder this project from being completed would probably be the way the mechanism would be merged together to produce a design that looks nice and appeal to the customer, without affecting the ability of “Breeze” to carry out its purpose.
+
 
 
 
