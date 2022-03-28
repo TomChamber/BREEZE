@@ -77,11 +77,11 @@ Placement for at least two years before I will be able to have enough skills, qu
 The position of Web-designer/developer for NEXTGEN.
 
 # Personal Profile
- #### http://www.16personalities.com/
+#### http://www.16personalities.com/
  
  ![Screenshot 2022-03-27 212355](https://user-images.githubusercontent.com/101620168/160277311-e8a6c7b9-2ee3-4d8d-ab45-b26ae866cd3d.png)
  
- #### https://www.how-to-study.com/learning-style-assessment/
+#### https://www.how-to-study.com/learning-style-assessment/
  
  ![dadada](https://user-images.githubusercontent.com/101620168/160279003-5f70d1eb-2aab-4102-9eb2-669f7cf3b07f.PNG)
  
