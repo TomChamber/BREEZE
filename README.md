@@ -1,6 +1,6 @@
 
 # **Welcome to Breeze**
-============================================================================================
+=========================================================================================
 
 ## Personal
 
@@ -14,7 +14,7 @@
 
 #### Language spoken: English & Vietnamese 
 
-####FUN FACT: I am interested in cooking and like to expeiment with different culture food when I'am free at home
+#### FUN FACT: I am interested in cooking and like to expeiment with different culture food when I'am free at home
 
 #### What is your interest in IT?:
 My interest in IT is focused on the side of cyber security and web design, which has always interested me because of its unique field of study and it borad area of job that I could choose to explore.
